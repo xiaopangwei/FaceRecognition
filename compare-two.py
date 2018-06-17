@@ -1,3 +1,4 @@
+#coding:utf-8
 import face_recognition
 import sys
 toleranceMid=0.6

@@ -1,15 +1,15 @@
+#coding:utf-8
 import face_recognition
 import os
 import shutil
 import time
 import sys
-"""
 
+"""
 这是一个多分类的程序，含有两个命令行参数
 
 1、输入文件夹的路径
 2、输出文件夹的路径
-
 """
 #inputPath= "/Users/weihuang/Desktop/fbb"
 #outputPath= "/Users/weihuang/Desktop/category_result"
@@ -62,6 +62,7 @@ def checkEncoding(imagePath):
             copyFile(imagePath,"CannotRecognition")
         else:
             flag=True
+            #如果之前出现过这类图片，Flag=True
             for index,item in enumerate(knownImageEncoding):
                 unknownEncoding = face_recognition.face_encodings(unknown)[0]
                 results = face_recognition.compare_faces([item,], unknownEncoding,tolerance=lowTolerance)

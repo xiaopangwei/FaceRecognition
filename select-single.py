@@ -1,3 +1,4 @@
+#coding:utf-8
 import face_recognition
 import os
 import shutil
@@ -39,7 +40,7 @@ def checkEncoding(stardardEncoding,imagePath):
         else:
             unknown_encoding = face_recognition.face_encodings(unknown)[0]
             results = face_recognition.compare_faces([stardardEncoding,], unknown_encoding)
-            if results[0]==True:
+            if results[0]:
                 copyFile(imagePath)
 if __name__ == '__main__':
     if len(sys.argv)<3:
