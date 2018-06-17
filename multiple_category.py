@@ -26,7 +26,7 @@ knownImageEncoding=[]
 
 #具体的调参参数 0-1 之间
 # 越小分类的类别越多，越大，分类的数量越小
-lowTolerance=0.65
+lowTolerance=0.5
 #获取文件列表
 def loadImageList():
     photosName=[]

@@ -2,11 +2,36 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="15f15b32-3fe8-4827-bb19-5ea629d834ee" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example/fbb/f-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example/fbb/f1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example/fbb/f10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example/fbb/f11.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example/fbb/f12.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example/fbb/f13.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example/fbb/f14.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example/fbb/f15.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example/fbb/f2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example/fbb/f3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example/fbb/f4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example/fbb/f5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example/fbb/f6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example/fbb/f7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example/fbb/f8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example/fbb/f9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example/fbb/tw.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example/fbb/zx.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example/fbb/zx2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example/fbb/zx3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example/lmx/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example/lmx/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example/lmx/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example/lmx/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example/lmx/timg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example/lmx/u=1002962438,2214891745&amp;fm=27&amp;gp=0.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example/lmx/u=2189818168,2137344291&amp;fm=27&amp;gp=0.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example/lmx/u=909403781,973390351&amp;fm=27&amp;gp=0.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compare-two.py" afterPath="$PROJECT_DIR$/compare-two.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/multiple_category.py" afterPath="$PROJECT_DIR$/multiple_category.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/select-single.py" afterPath="$PROJECT_DIR$/select-single.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -34,11 +59,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="multiple_category.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="multiple_category.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/multiple_category.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="13" />
+            <state relative-caret-position="142">
+              <caret line="27" column="9" lean-forward="false" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
               <folding>
                 <element signature="e#14#37#0" expanded="true" />
               </folding>
@@ -46,11 +71,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="select-single.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="select-single.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/select-single.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="240">
-              <caret line="12" column="3" lean-forward="true" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+              <caret line="12" column="3" lean-forward="false" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
               <folding>
                 <element signature="e#14#37#0" expanded="true" />
               </folding>
@@ -75,9 +100,9 @@
       <list>
         <option value="$PROJECT_DIR$/demo.py" />
         <option value="$PROJECT_DIR$/check_justin.py" />
-        <option value="$PROJECT_DIR$/multiple_category.py" />
         <option value="$PROJECT_DIR$/compare-two.py" />
         <option value="$PROJECT_DIR$/select-single.py" />
+        <option value="$PROJECT_DIR$/multiple_category.py" />
       </list>
     </option>
   </component>
@@ -135,6 +160,11 @@
               <item name="face_type" type="b2602c69:ProjectViewProjectNode" />
               <item name="face_type" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="face_type" type="b2602c69:ProjectViewProjectNode" />
+              <item name="face_type" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -148,6 +178,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/example" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
@@ -242,6 +273,14 @@
       <option name="presentableId" value="Default" />
       <updated>1529070243894</updated>
     </task>
+    <task id="LOCAL-00001" summary="encoding">
+      <created>1529227452429</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1529227452429</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -274,6 +313,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="encoding" />
+    <option name="LAST_COMMIT_MESSAGE" value="encoding" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -333,20 +376,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/multiple_category.py">
+    <entry file="file://$PROJECT_DIR$/select-single.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="13" />
+        <state relative-caret-position="240">
+          <caret line="12" column="3" lean-forward="false" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
           <folding>
             <element signature="e#14#37#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/select-single.py">
+    <entry file="file://$PROJECT_DIR$/multiple_category.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="12" column="3" lean-forward="true" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+        <state relative-caret-position="142">
+          <caret line="27" column="9" lean-forward="false" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
           <folding>
             <element signature="e#14#37#0" expanded="true" />
           </folding>
